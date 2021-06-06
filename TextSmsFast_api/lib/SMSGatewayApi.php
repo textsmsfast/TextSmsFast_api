@@ -1,9 +1,9 @@
 <?php
 /**
- * @package		All SMS Gateway Api
- * @author		Najmul Hossaiin (contact@ntechpark.com)
- * @copyright	Copyright (c) 2019, nTechpark Technologies Ltd.
- * @link		http://ntechpark.com
+ * @package		TextSmsFast
+ * @author		TextSmsFast(send@textsmsfast.com)
+ * @copyright	Copyright (c) 2019, TextSmsFast.
+ * @link		http://textsmsfast.com
 */
 
 /**
